@@ -19,9 +19,12 @@ declare module 'vue-router/auto-routes' {
    */
   export interface RouteNamedMap {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
-    '/wireframes/baseline': RouteRecordInfo<'/wireframes/baseline', '/wireframes/baseline', Record<never, never>, Record<never, never>>,
-    '/wireframes/constrained': RouteRecordInfo<'/wireframes/constrained', '/wireframes/constrained', Record<never, never>, Record<never, never>>,
-    '/wireframes/inbox': RouteRecordInfo<'/wireframes/inbox', '/wireframes/inbox', Record<never, never>, Record<never, never>>,
-    '/wireframes/threecolumn': RouteRecordInfo<'/wireframes/threecolumn', '/wireframes/threecolumn', Record<never, never>, Record<never, never>>,
+    '/components/containment/application': RouteRecordInfo<'/components/containment/application', '/components/containment/application', Record<never, never>, Record<never, never>>,
+    '/components/containment/application2': RouteRecordInfo<'/components/containment/application2', '/components/containment/application2', Record<never, never>, Record<never, never>>,
+    '/components/containment/application3': RouteRecordInfo<'/components/containment/application3', '/components/containment/application3', Record<never, never>, Record<never, never>>,
+    '/getting-started/wireframes/baseline': RouteRecordInfo<'/getting-started/wireframes/baseline', '/getting-started/wireframes/baseline', Record<never, never>, Record<never, never>>,
+    '/getting-started/wireframes/constrained': RouteRecordInfo<'/getting-started/wireframes/constrained', '/getting-started/wireframes/constrained', Record<never, never>, Record<never, never>>,
+    '/getting-started/wireframes/inbox': RouteRecordInfo<'/getting-started/wireframes/inbox', '/getting-started/wireframes/inbox', Record<never, never>, Record<never, never>>,
+    '/getting-started/wireframes/threecolumn': RouteRecordInfo<'/getting-started/wireframes/threecolumn', '/getting-started/wireframes/threecolumn', Record<never, never>, Record<never, never>>,
   }
 }
