@@ -1,5 +1,5 @@
 <template>
-  abc
+  <HelloWorld />
 </template>
 
 <script lang="ts" setup>
