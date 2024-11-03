@@ -22,6 +22,7 @@ declare module 'vue-router/auto-routes' {
     '/components/containment/application': RouteRecordInfo<'/components/containment/application', '/components/containment/application', Record<never, never>, Record<never, never>>,
     '/components/containment/application2': RouteRecordInfo<'/components/containment/application2', '/components/containment/application2', Record<never, never>, Record<never, never>>,
     '/components/containment/application3': RouteRecordInfo<'/components/containment/application3', '/components/containment/application3', Record<never, never>, Record<never, never>>,
+    '/features/theme': RouteRecordInfo<'/features/theme', '/features/theme', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/baseline': RouteRecordInfo<'/getting-started/wireframes/baseline', '/getting-started/wireframes/baseline', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/constrained': RouteRecordInfo<'/getting-started/wireframes/constrained', '/getting-started/wireframes/constrained', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/inbox': RouteRecordInfo<'/getting-started/wireframes/inbox', '/getting-started/wireframes/inbox', Record<never, never>, Record<never, never>>,
