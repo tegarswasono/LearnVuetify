@@ -1,3 +1,3 @@
 <template>
-  hello who are you
+  coming soon ...
 </template>
