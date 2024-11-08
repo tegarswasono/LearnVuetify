@@ -27,5 +27,10 @@ declare module 'vue-router/auto-routes' {
     '/getting-started/wireframes/constrained': RouteRecordInfo<'/getting-started/wireframes/constrained', '/getting-started/wireframes/constrained', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/inbox': RouteRecordInfo<'/getting-started/wireframes/inbox', '/getting-started/wireframes/inbox', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/threecolumn': RouteRecordInfo<'/getting-started/wireframes/threecolumn', '/getting-started/wireframes/threecolumn', Record<never, never>, Record<never, never>>,
+    '/styles-animations/borders': RouteRecordInfo<'/styles-animations/borders', '/styles-animations/borders', Record<never, never>, Record<never, never>>,
+    '/styles-animations/display': RouteRecordInfo<'/styles-animations/display', '/styles-animations/display', Record<never, never>, Record<never, never>>,
+    '/styles-animations/displayCss': RouteRecordInfo<'/styles-animations/displayCss', '/styles-animations/displayCss', Record<never, never>, Record<never, never>>,
+    '/styles-animations/material-color-palette': RouteRecordInfo<'/styles-animations/material-color-palette', '/styles-animations/material-color-palette', Record<never, never>, Record<never, never>>,
+    '/styles-animations/text-typography': RouteRecordInfo<'/styles-animations/text-typography', '/styles-animations/text-typography', Record<never, never>, Record<never, never>>,
   }
 }
