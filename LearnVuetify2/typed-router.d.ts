@@ -22,6 +22,10 @@ declare module 'vue-router/auto-routes' {
     '/components/containment/application': RouteRecordInfo<'/components/containment/application', '/components/containment/application', Record<never, never>, Record<never, never>>,
     '/components/containment/application2': RouteRecordInfo<'/components/containment/application2', '/components/containment/application2', Record<never, never>, Record<never, never>>,
     '/components/containment/application3': RouteRecordInfo<'/components/containment/application3', '/components/containment/application3', Record<never, never>, Record<never, never>>,
+    '/components/containment/card': RouteRecordInfo<'/components/containment/card', '/components/containment/card', Record<never, never>, Record<never, never>>,
+    '/components/containment/list': RouteRecordInfo<'/components/containment/list', '/components/containment/list', Record<never, never>, Record<never, never>>,
+    '/components/containment/sheet': RouteRecordInfo<'/components/containment/sheet', '/components/containment/sheet', Record<never, never>, Record<never, never>>,
+    '/components/widget': RouteRecordInfo<'/components/widget', '/components/widget', Record<never, never>, Record<never, never>>,
     '/features/theme': RouteRecordInfo<'/features/theme', '/features/theme', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/baseline': RouteRecordInfo<'/getting-started/wireframes/baseline', '/getting-started/wireframes/baseline', Record<never, never>, Record<never, never>>,
     '/getting-started/wireframes/constrained': RouteRecordInfo<'/getting-started/wireframes/constrained', '/getting-started/wireframes/constrained', Record<never, never>, Record<never, never>>,
@@ -33,6 +37,7 @@ declare module 'vue-router/auto-routes' {
     '/styles-animations/display': RouteRecordInfo<'/styles-animations/display', '/styles-animations/display', Record<never, never>, Record<never, never>>,
     '/styles-animations/displayCss': RouteRecordInfo<'/styles-animations/displayCss', '/styles-animations/displayCss', Record<never, never>, Record<never, never>>,
     '/styles-animations/elevation': RouteRecordInfo<'/styles-animations/elevation', '/styles-animations/elevation', Record<never, never>, Record<never, never>>,
+    '/styles-animations/flex': RouteRecordInfo<'/styles-animations/flex', '/styles-animations/flex', Record<never, never>, Record<never, never>>,
     '/styles-animations/material-color-palette': RouteRecordInfo<'/styles-animations/material-color-palette', '/styles-animations/material-color-palette', Record<never, never>, Record<never, never>>,
     '/styles-animations/text-typography': RouteRecordInfo<'/styles-animations/text-typography', '/styles-animations/text-typography', Record<never, never>, Record<never, never>>,
   }
