@@ -9,6 +9,16 @@
     <div class="ma-2 pa-2 bg-white">d-inline-flex ></div>
   </div>
 
+  <div class="d-flex bg-surface-variant mb-2">
+    <div class="ma-2 pa-2 bg-white" style="width: 50%;">d-flex > width: 50%</div>
+    <div class="ma-2 pa-2 bg-white" style="width: 50%;">d-flex > width: 50%</div>
+  </div>
+
+  <div class="d-flex bg-surface-variant mb-2">
+    <div class="ma-2 pa-2 bg-white d-flex">d-flex > width: 50%</div>
+    <div class="ma-2 pa-2 bg-white d-flex">d-flex > width: 50%</div>
+  </div>
+
   <div class="d-flex flex-wrap bg-surface-variant mb-2">
     <div class="flex-1-0 ma-2 pa-2 bg-white">d-flex flex-wrap > flex-1-0</div>
     <div class="ma-2 pa-2 bg-white">d-flex flex-wrap ></div>
