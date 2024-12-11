@@ -26,6 +26,7 @@ declare module 'vue-router/auto-routes' {
     '/components/containment/grid': RouteRecordInfo<'/components/containment/grid', '/components/containment/grid', Record<never, never>, Record<never, never>>,
     '/components/containment/list': RouteRecordInfo<'/components/containment/list', '/components/containment/list', Record<never, never>, Record<never, never>>,
     '/components/containment/sheet': RouteRecordInfo<'/components/containment/sheet', '/components/containment/sheet', Record<never, never>, Record<never, never>>,
+    '/components/grid/grid': RouteRecordInfo<'/components/grid/grid', '/components/grid/grid', Record<never, never>, Record<never, never>>,
     '/components/picker/date': RouteRecordInfo<'/components/picker/date', '/components/picker/date', Record<never, never>, Record<never, never>>,
     '/components/widget': RouteRecordInfo<'/components/widget', '/components/widget', Record<never, never>, Record<never, never>>,
     '/features/theme': RouteRecordInfo<'/features/theme', '/features/theme', Record<never, never>, Record<never, never>>,
